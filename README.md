@@ -29,16 +29,9 @@ RobWorld — это мир, где каждый день наполнен дви
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
 
-### 📊 Статистика разработчика
+### 🤝 Связаться со мной 💬
 
-[![Статистика bruk](https://github-readme-stats.vercel.app/api?username=Brukill11&show_icons=true&theme=radical)](https://github.com/Brukill11)
-
-### 🤝 Связаться со мной
-
-Буду рад пообщаться про разработку под Minecraft, оптимизацию серверов или просто обсудить крутые сиды и биомы. 💬🧠
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD_LINK)
-[![Telegram](https://img.shields.io/badge/Telegram-248148?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_LINK)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/brukill)
 
 ---
 
